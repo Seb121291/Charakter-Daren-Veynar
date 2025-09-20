@@ -7,3 +7,7 @@ Ich kämpfe mit zwei Klingen, nicht, weil es mir Macht verleiht, sondern weil es
 
 Ich fürchte nicht den Tod. Ich fürchte das Vergessen. Dass wir – die Jedi – zu Geistern werden, verdrängt aus den Geschichtsbüchern. Und doch… solange ich atme, solange ich diese Klingen halte, wird unser Vermächtnis nicht völlig verschwinden.
 Ich bin Daren. Kein Meister, kein Held – nur ein Überlebender, der noch immer versucht, der Macht treu zu bleiben."
+
+[Das bin ich.](biographie.md)
+[Meine Stärken. Meine Schwöchen.](eigenschaften.txt)
+[Und das habe ich alles erlebt.](Abenteuer.md)

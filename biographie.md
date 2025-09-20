@@ -1,10 +1,11 @@
 # Biografie
 ### Name: Daren Veynar
-### Geburtsjahr: 26 VSY
-### Heimatwelt: Corellia
-### Spezies: Mensch
-### Rang: Jedi-Ritter (frisch ernannt, wenige Monate vor Order 66)
-### Kampfstokus: Zwei Lichtschwerter (Jar’Kai-Technik), defensive Geschicklichkeit kombiniert mit aggressiven Ausweich- und Kontertechniken
+* Geburtsjahr: 26 VSY
+* Heimatwelt: Corellia
+* Spezies: Mensch
+ * Rang: Jedi-Ritter (frisch ernannt, wenige Monate vor Order 66)
+ *  Kampfstokus: Zwei Lichtschwerter (Jar’Kai-Technik), defensive Geschicklichkeit kombiniert mit aggressiven Ausweich- und Kontertechniken
+ 
 ### Lichtschwerter:
 Ein grünes Schwert (sein ursprüngliches Padawan-Schwert)
 Ein blaues Schwert (gebaut nach seiner Ritterernennung, als Symbol seines neuen Lebensabschnitts)
